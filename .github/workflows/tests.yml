@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: echo "Running Tests..."
+         - run: echo "Running Tests..."
       - run: echo "Tests passed!"
