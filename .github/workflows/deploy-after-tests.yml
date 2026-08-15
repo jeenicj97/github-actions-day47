@@ -20,4 +20,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: echo "Tests failed. Deployment skipped"
+      - run: echo "Tests failed. Deployment skipped.."
